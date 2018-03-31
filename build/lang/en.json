@@ -679,7 +679,7 @@
     "mm.login.missinglastname": "Missing surname",
     "mm.login.mobileservicesnotenabled": "Mobile access is not enabled on your site. Please contact your site administrator if you think it should be enabled.",
     "mm.login.newaccount": "New account",
-    "mm.login.newsitedescription": "Please enter the URL of your Learning site. Note that it might not be configured to work with this app.",
+    "mm.login.newsitedescription": "Please enter the site address as 'trainings.quint-essence.com' below and press connect",
     "mm.login.notloggedin": "You need to be logged in.",
     "mm.login.password": "Password",
     "mm.login.passwordforgotten": "Forgotten password",
