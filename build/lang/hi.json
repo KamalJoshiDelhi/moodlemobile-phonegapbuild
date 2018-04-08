@@ -164,7 +164,7 @@
 	"mm.core.unlimited": "असीमित",
 	"mm.core.unzipping": "अनज़िप हो रहा है",
 	"mm.core.userdeleted": "इस उप्योगकर्ता का खाता मिटा दिया गया है",
-	"mm.core.users": "उप्योगकर्ता"
+	"mm.core.users": "उप्योगकर्ता",
 	"mm.core.view": "दिखाएँ",
 	"mm.core.warningofflinedatadeleted": "{{Component}} '{{name}}' से ऑफलाइन डेटा हटा दिया गया है{{error}}",
 	"mm.core.whoops": "अरे!",
