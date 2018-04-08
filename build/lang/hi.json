@@ -319,7 +319,7 @@
 	"mm.login.siteinmaintenance": "आपकी साइट देखरेख मोड पर है",
 	"mm.login.sitepolicynotagreederror": "साइट की खंडन नीति स्वीकृत नही है",
 	"mm.login.siteurl": "साइट URL",
-	"mm.login.siteurlrequired": "साइट URL आवश्यक है,<i> http
+	"mm.login.siteurlrequired": "साइट URL आवश्यक है, जैसे <i> http:/trainings.quint-essence.com</i>",
 	"mm.login.startsignup": "नया खाता बनाएँ",
 	"mm.login.stillcantconnect": "अभी भी कनेक्ट नही कर पा रहे?",
 	"mm.login.supplyinfo": "अधिक विवरण",
