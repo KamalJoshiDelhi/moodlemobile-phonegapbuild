@@ -35,7 +35,7 @@
 
     <allow-intent href="*" />
 
-    <preference name="phonegap-version" value="cli-8.1.1" />
+    <preference name="phonegap-version" value="cli-9.0.0" />
     <preference name="LoadUrlTimeoutValue" value="60000"/>
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
