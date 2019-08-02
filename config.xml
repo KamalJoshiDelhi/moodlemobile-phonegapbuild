@@ -154,7 +154,7 @@
     </gap:plugin>
 
     <gap:config-file platform="android" parent="/manifest">
-        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="false"></activity>
+        <activity android:debuggable="false"></activity>
     </gap:config-file>
 
     <!-- See MOBILE-892 -->
