@@ -153,8 +153,8 @@
         <param name="SENDER_ID" value="694767596569" />
     </gap:plugin>
 
-    <gap:config-file platform="android" parent="/manifest">
-         <application android:debuggable="false"/>
+    <gap:config-file file="AndroidManifest.xml" target="/manifest/application/activity[@android:launchMode='singleTop']" mode="merge">
+        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="false"></activity>
     </gap:config-file>
 
     <!-- See MOBILE-892 -->
