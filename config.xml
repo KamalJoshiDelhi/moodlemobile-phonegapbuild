@@ -154,7 +154,7 @@
     </gap:plugin>
 
     <gap:config-file platform="android" parent="/manifest">
-        <activity android:debuggable="false"></activity>
+        <application android:debuggable="false"/>
     </gap:config-file>
 
     <!-- See MOBILE-892 -->
